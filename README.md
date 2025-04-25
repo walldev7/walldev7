@@ -10,7 +10,7 @@ Me chamo **Wallace Silveira** e sou um entusiasta da tecnologia em constante evo
 
 ### 💬 Vamos conversar!
 - 💻 Interesses: IA, automações com Python, soluções práticas com tecnologia, Machine Learning
-- 📫 Como me encontrar: **silveirawjob@gmail.com**
+- 📫 Como me encontrar: **walldev33@gmail.com**
 - 😄 Curiosidade: Sou movido por desafios e adoro transformar ideias em soluções reais
 
 ---
